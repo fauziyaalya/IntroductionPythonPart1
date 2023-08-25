@@ -1,4 +1,4 @@
-# IntroductionPythonPart1
+# INTRODUCTION PYTHON PART 1
 # 1.Number, String and Boolean
 Built-in data types in Python 3:
 1. Numbers
